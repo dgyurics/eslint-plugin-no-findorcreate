@@ -1,0 +1,17 @@
+{
+  "name": "eslint-plugin-no-findorcreate",
+  "version": "1.0.3",
+  "description": "ESLint plugin to disallow Sequelize's findOrCreate method",
+  "main": "lib/index.js",
+  "keywords": [
+    "eslint",
+    "eslint-plugin",
+    "sequelize",
+    "findOrCreate"
+  ],
+  "author": "Dennis Gyurics",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": "^8.0.0"
+  }
+}
